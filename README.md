@@ -8,5 +8,5 @@ Requires [uv](https://docs.astral.sh/uv/).
 
 ```bash
 uv sync
-uv run mkdocs serve
+uv run zensical serve
 ```

@@ -4,10 +4,10 @@ sync:
     uv sync
 
 serve: sync
-    uv run mkdocs serve
+    uv run zensical serve
 
 build: sync
-    uv run mkdocs build
+    uv run zensical build --clean
 
 clean:
     rm -rf site
