@@ -36,6 +36,8 @@ My research is currently sponsored by the [Scaling Compute Program under ARIA](h
 
 > $^\dag$ denotes equal contribution
 
+- [<u>\[NeurIPS2026\]</u>](https://arxiv.org/abs/2601.09923) Hanna Foerster, Tom Blanchard, Kristina Nikolić, Ilia Shumailov, **Cheng Zhang**, Robert D. Mullins, Nicolas Papernot, Florian Tramèr, Yiren Zhao. CaMeLs Can Use Computers Too: System-level Security for Computer Use Agents. *The 40th Annual Conference on Neural Information Processing Systems*.
+
 - [<u>\[EMNLP2026\]</u>](https://arxiv.org/abs/2410.06722) Zeyu Cao, Yao Lai, Boyang Gu, **Cheng Zhang**, Pedro Gimenes, Jianqiao Lu, Xitong Gao, Jianyi Cheng, Robert D. Mullins, Yiren Zhao. Scaling Laws for Mixed Quantization. *The 2026 Conference on Empirical Methods in Natural Language Processing*.
 
 - [<u>\[ICML2026\]</u>](https://arxiv.org/abs/2603.08721) Jiayi Nie, Haoran Wu, Yao Lai, Zeyu Cao, **Cheng Zhang**, Binglei Lou, Erwei Wang, Jianyi Cheng, Timothy M. Jones, Robert Mullins, Rika Antonova, Yiren Zhao. KernelCraft: Benchmarking for Agentic Close-to-Metal Kernel Generation on Emerging Hardware. *The 43rd International Conference on Machine Learning*.
