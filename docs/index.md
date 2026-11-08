@@ -22,13 +22,14 @@ My research is currently sponsored by the [Scaling Compute Program under ARIA](h
 
 ## Education
 
-- PhD in Electrical and Electronic Engineering, Imperial College London, Jan 2023 - Current
+- PhD in Electrical and Electronic Engineering, Imperial College London, Jan 2023 - Jul 2026.
 - MSc in Electronics, The University of Edinburgh, Sep 2021 - Aug 2022
 - BEng in Automation, Beihang University, Sep 2017 - Jun 2021
 
 ## Experience
 
-- Founding Engineer, [Sequrity.AI](https://sequrity.ai/), Aug 2025 - April 2026
+- AI Research Scientist, [Meta](https://www.meta.com/), April 2026 - Present
+- Founding Engineer, [Sequrity.AI](https://www.linkedin.com/company/ai-sequrity-company/), Aug 2025 - April 2026
 - Research Intern, [Microsoft Research Cambridge](https://www.microsoft.com/en-us/research/lab/microsoft-research-cambridge/), May 2025 - July 2025
 - Techical Consultant, [Rigpa.AI](https://www.rigpa.ai/), April 2024 - May 2025
 
